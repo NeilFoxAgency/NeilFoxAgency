@@ -13,6 +13,8 @@
   <a href="https://www.linkedin.com/in/jeffery-neil-wacaster-90b572336">LinkedIn</a>
 </p>
 
+[![SPONSORED BY E2B FOR STARTUPS](https://img.shields.io/badge/SPONSORED%20BY-E2B%20FOR%20STARTUPS-ff3001?style=for-the-badge&labelColor=black)](https://e2b.dev/startups)
+
 ---
 
 ### Hey, I'm Neil 👋
